@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/google-analytics-real-time-api-in-net-core/console-example/RealTimeGa/credentials.json
